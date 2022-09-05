@@ -1,0 +1,1 @@
+Pasta de projetos de aprendizado, testes e apps Prontosgi
