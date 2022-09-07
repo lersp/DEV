@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'My App to Test install'),
+      home: const MyHomePage(title: 'Mostrar para o Matheuzinho'),
     );
   }
 }
